@@ -1,0 +1,6 @@
+c:\users\a pc\documents\visual studio 2015\Projects\first lesson\first lessons\bin\Debug\first lessons.exe.config
+c:\users\a pc\documents\visual studio 2015\Projects\first lesson\first lessons\bin\Debug\first lessons.exe
+c:\users\a pc\documents\visual studio 2015\Projects\first lesson\first lessons\bin\Debug\first lessons.pdb
+c:\users\a pc\documents\visual studio 2015\Projects\first lesson\first lessons\obj\Debug\first lessons.csprojResolveAssemblyReference.cache
+c:\users\a pc\documents\visual studio 2015\Projects\first lesson\first lessons\obj\Debug\first lessons.exe
+c:\users\a pc\documents\visual studio 2015\Projects\first lesson\first lessons\obj\Debug\first lessons.pdb
